@@ -1,0 +1,1 @@
+steamcmd +login anonymous

@@ -1,0 +1,4 @@
+installeren van apt bestanden = 1
+minecraft server = 2
+steamcmd = 3
+xonotic = 4
